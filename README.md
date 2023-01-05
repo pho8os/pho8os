@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working : on Cursus-42<br>🌱 I’m currently learning : C-language -- Shell -- Rust<br>⚡ Fun fact : I Smell The Fear coming from the compiler
 
-![absaid's 42 stats](https://badge42.vercel.app/api/v2/clce226rk00110fjrfwmu7za3/stats?cursusId=21&coalitionId=74)
+![absaid's 42 stats](https://badge.mediaplus.ma/darkblue/absaid)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-said-3a637a242/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pho8os) 
 
