@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working : on Cursus-42<br>🌱 I’m currently learning : C-language -- Shell -- Rust<br>⚡ Fun fact : The compiler fears my mastery
+🔭 I’m currently working : on Cursus-42<br>🌱 I’m currently learning : Full-Stack in Web-2 and Web-3<br>⚡ Fun fact : The compiler fears my mastery
 
 ![absaid's 42 stats](https://badge.mediaplus.ma/naruto/absaid)
 
