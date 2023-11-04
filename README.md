@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working : on Cursus-42<br>🌱 I’m currently learning : C-language -- Shell -- Rust<br>⚡ Fun fact : The compiler fears my mastery
+
 ![absaid's 42 stats](https://badge.mediaplus.ma/naruto/absaid)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-said-3a637a242/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pho8os) 
 
